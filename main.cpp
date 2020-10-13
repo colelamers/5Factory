@@ -4,6 +4,8 @@
 #include <algorithm>
 #define carModelSearch(i) find(choice) != carModel[i]->outputModel().end()
 
+// Created by Cole Lamers
+
 using namespace std;
 
 class Car {
